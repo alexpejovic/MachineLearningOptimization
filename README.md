@@ -1,4 +1,4 @@
-#CSC209 Assignment 3
+# CSC209 Assignment 3
 
 This program uses a set of classified grayscale images of drawn digits as
 input, finds patterns in these images, and then uses that pattern to classify
